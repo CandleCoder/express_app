@@ -5,14 +5,13 @@
 ## Installation
 
 ```sh
-$ npm install --save imposters
+$ To be provided soon
 ```
 
 ## Usage
 
 ```js
-var imposters = require('imposters');
-imposters();
+Clone it and Simply Use it by installing npm install and Starting the server by nodemon
 ```
 
 ## License
